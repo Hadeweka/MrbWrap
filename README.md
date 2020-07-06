@@ -1,3 +1,6 @@
+This repository was migrated and might be deleted in the future.
+Please refer to https://github.com/Shidacea/MrbWrap for the new repository.
+
 # MrbWrap
 
 MrbWrap provides C++ template methods in order to wrap classes directly into mruby without dealing with format strings, type conversions and 10 lines of code, just to wrap a simple integer attribute.
